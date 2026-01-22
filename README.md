@@ -1,2 +1,2 @@
 # WFL_F1_rawdata
-Getting started with SAS Viya Workbench for Learners
+F1 rawdata files (csv) for the getting started with SAS Viya Workbench for Learners series.
